@@ -1,0 +1,4 @@
+classes=2
+train=./data/trainpascalvoc_per_car.txt
+valid=./data/testpascalvoc_per_car.txt
+names=data/person_car.names

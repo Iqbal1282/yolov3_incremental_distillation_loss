@@ -1,0 +1,4 @@
+classes=20
+train=./data/trainpascalvoc2007.txt
+valid=./data/testpascalvoc2007.txt
+names=data/pascal_voc07_cls_names.names
